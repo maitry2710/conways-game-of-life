@@ -75,13 +75,13 @@ python main.py
 
 ##Screenshots:
 - Initial grid with all DEAD CELLS.
-     ![image description]()
+     ![image description](https://github.com/maitry2710/conways-game-of-life/blob/ebd47ee5d7802dde1860f8d055d0b8d592e379e4/Screenshot%202024-12-02%20142348.png)
 
 - Grid after user draw ALIVE CELLS.
-     ![image description]()
+     ![image description](https://github.com/maitry2710/conways-game-of-life/blob/ebd47ee5d7802dde1860f8d055d0b8d592e379e4/Screenshot%202024-12-02%20142408.png)
 
 - Gird after applying game of life rules.
-     ![image description]()
+     ![image description](https://github.com/maitry2710/conways-game-of-life/blob/ebd47ee5d7802dde1860f8d055d0b8d592e379e4/Screenshot%202024-12-02%20142433.png)
 ## License
 
 This project works under MIT License. See the [MIT LICENSE](https://choosealicense.com/licenses/mit/) file for details
