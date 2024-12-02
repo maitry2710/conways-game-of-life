@@ -72,6 +72,16 @@ python main.py
 3. Game Loop:
 
 - The ```main()``` function handles user input, updates the simulation state, and renders the grid frame by frame.
+
+##Screenshots:
+- Initial grid with all DEAD CELLS.
+     ![image description]()
+
+- Grid after user draw ALIVE CELLS.
+     ![image description]()
+
+- Gird after applying game of life rules.
+     ![image description]()
 ## License
 
 This project works under MIT License. See the [MIT LICENSE](https://choosealicense.com/licenses/mit/) file for details
